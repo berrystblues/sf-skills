@@ -1,0 +1,11 @@
+{
+  "name": "field-service",
+  "displayName": "Salesforce Field Service",
+  "version": "0.1.0",
+  "description": "Set up and configure Salesforce Field Service end to end: foundation data (work types, skills, territories, operating hours), scheduling policies, work rules and service objectives, Data Capture forms (design, deploy, edit, migrate), Field Service Mobile branding, Voice to Form, and Einstein Pre-Work Brief.",
+  "author": { "name": "Salesforce" },
+  "license": "Apache-2.0",
+  "keywords": ["salesforce field service", "fsl", "scheduling policy", "work rules", "service objectives", "data capture", "field service mobile", "voice to form", "pre-work brief"],
+  "dependencies": [],
+  "skills": "./skills/"
+}

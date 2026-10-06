@@ -593,6 +593,37 @@
           ]
         }
       }
+    },
+    {
+      "name": "field-service",
+      "source": "./plugins/builder/field-service",
+      "description": "Set up and configure Salesforce Field Service end to end: foundation data, scheduling policies, work rules and objectives, Data Capture forms, mobile branding, Voice to Form, and Einstein Pre-Work Brief.",
+      "keywords": [
+        "salesforce field service",
+        "fsl",
+        "scheduling policy",
+        "work rules",
+        "service objectives",
+        "data capture",
+        "field service mobile",
+        "voice to form"
+      ],
+      "metadata": {
+        "match": {
+          "examplePrompts": [
+            "set up Field Service for my org",
+            "design a scheduling policy with work rules and objectives",
+            "build a data capture form from a paper form PDF",
+            "configure Voice to Form on Field Service Mobile"
+          ],
+          "anchorTerms": [
+            "field service",
+            "scheduling",
+            "work rule",
+            "data capture"
+          ]
+        }
+      }
     }
   ]
 }
